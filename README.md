@@ -6,15 +6,14 @@ Entry for the make.fun competition
 
 ## The entry
 
-> The meeting that should have been an email just spawned a follow-up
-> meeting, a recap email, and a calendar invite to discuss the recap.
+> I asked my boss for a raise and he gave me a standing desk — apparently
+> 'standing up for yourself' was already in the job description.
 
 ## How it works
 
 `main.py` (Python 3, standard library only) writes the single-line joke to
-`/output/entry.txt`. The joke is one line, 135 characters, about office life:
-the kind of line you send a colleague after a meeting that should have been
-an email.
+`/output/entry.txt`. The joke is one line, 134 characters, about office life:
+asking the boss for a raise and getting a standing desk instead.
 
 ## Run
 

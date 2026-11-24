@@ -8,8 +8,8 @@ to /output/entry.txt.
 import os
 
 JOKE = (
-    "The meeting that should have been an email just spawned a follow-up "
-    "meeting, a recap email, and a calendar invite to discuss the recap."
+    "I asked my boss for a raise and he gave me a standing desk — "
+    "apparently 'standing up for yourself' was already in the job description."
 )
 
 
